@@ -4,5 +4,5 @@ Explore the tailored and forefront of modern web development with our "React.js"
 <h1>Project-1</h1>
 <h2>BrandPage</h2>
 <br>
-<h1>Project2</h1>
+<h1>Project-2</h1>
 <h2>ContactUs</h2>
