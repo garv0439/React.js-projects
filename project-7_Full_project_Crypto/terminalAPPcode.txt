@@ -1,0 +1,32 @@
+run this code in app folder
+
+npm i formik
+npm i yup
+npm i react-query
+npm i axios
+npm install --save-dev vite-plugin-rewrite-all
+npm i jwt-decode react-cookie
+
+
+run this code in sever folder
+
+npm run server
+
+
+////////////////////////////////////////////////
+
+
+username=>   garvkadia
+
+password=>   lhixR3VgvFeU6H89
+
+
+learnings   =====>>>>>>>>>
+
+libraries like formik ,, yup ,, axios
+
+react query package
+
+context api
+
+custom hook
