@@ -20,4 +20,4 @@ Explore the tailored and forefront of modern web development with our "React.js"
 <h2>Crypto_Dashboard</h2>
 <br>
 <h1>Project-7</h1>
-<h2>Crypto_Dashboard Full Project</h2>
+<h2>Crypto_Dashboard_Full_Project</h2>
