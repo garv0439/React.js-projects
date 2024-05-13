@@ -18,3 +18,6 @@ Explore the tailored and forefront of modern web development with our "React.js"
 <br>
 <h1>Project-6</h1>
 <h2>Crypto_Dashboard</h2>
+<br>
+<h1>Project-6</h1>
+<h2>Crypto_Dashboard</h2>
